@@ -1,5 +1,5 @@
-<h1 align="center">Hi there, I'm Edson 👋</h1>
-
+<h1 align="center"><img title="hi" alt="" src="./logo/favicon.svg"></img>
+ Hi there, I'm Edson 👋</h1>
 <p align="center"> 
  <a href="https://github.com/edsonaf" alt="edson af's github stats">
    <img src="https://img.shields.io/badge/-@edsonaf-%23181717?style=flat-square&logo=github" />
@@ -8,9 +8,39 @@
 
 <p align="center"> 
  <strong>
-  Professional skills
+  Professional skills |
+  Languages |
+  Framework |
+  Tools |
+  Version control
   </strong>
 </p>
+
+<div>
+<!-- 
+
+Languages, C#, Java, Python, SQL, Javascript, Typescript, Dart, Html, CSS, SCSS, Markdown
+
+<p align="center">
+    <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg" alt="c#" height="60px" style="vertical-align:top; margin:4px;">
+</p>
+
+
+-->
+</div>
+
+<div>
+<!-- Frameworks: WPF, Xamarin, Angular, React, Flutter,  -->
+</div>
+
+<div>
+<!-- Tools: VS code, JetBrains (Rider), StarUML, Unity, Eclipse, Netbeans, Jenkins, TeamCity -->
+</div>
+
+<div>
+<!-- Version Control: Team Foundation Server / Azure DevOps, SVN (Tortoise, Sourcesafe), Git (Github, Gitlab)  -->
+</div>
+
 
 <p align="center">
    <a href="https://dotnet.microsoft.com/">
