@@ -1,4 +1,4 @@
-<h1 align="center"><img title="hi" alt="" src="./logo/favicon.svg"></img>
+<h1 align="center"><img title="hi" alt="" src="./logo/favicon.svg">
  Hi there, I'm Edson 🎯</h1>
 
 <p align="center">
