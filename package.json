@@ -1,0 +1,68 @@
+{
+  "name": "portfolio",
+  "homepage": "https://edsonsintjago.com/",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "@clerk/clerk-react": "^4.12.8",
+    "@date-io/date-fns": "^2.16.0",
+    "@emotion/react": "^11.10.5",
+    "@emotion/styled": "^11.10.4",
+    "@mui/icons-material": "^5.10.9",
+    "@mui/lab": "^5.0.0-alpha.69",
+    "@mui/material": "^5.10.12",
+    "@mui/x-data-grid": "^5.17.6",
+    "@testing-library/jest-dom": "^5.16.5",
+    "@testing-library/react": "^11.2.7",
+    "@testing-library/user-event": "^12.8.3",
+    "axios": "^0.26.0",
+    "date-fns": "^2.29.3",
+    "font-awesome": "^4.7.0",
+    "ityped": "^1.0.3",
+    "react": "^17.0.2",
+    "react-circular-progressbar": "^2.1.0",
+    "react-dom": "^17.0.2",
+    "react-router-dom": "^6.4.2",
+    "react-test-renderer": "^17.0.2",
+    "react-tooltip": "^4.2.21",
+    "recharts": "^2.1.16",
+    "rxjs": "^7.5.7",
+    "typescript": "^4.8.4",
+    "web-vitals": "^1.1.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --coverage",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@testing-library/jest-dom": "^5.16.3",
+    "@testing-library/react": "^11.2.7",
+    "@testing-library/user-event": "^12.8.3",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-plugin-prettier": "^4.2.1",
+    "jest": "^27.5.1",
+    "prettier": "^2.7.1",
+    "react-scripts": "^5.0.0",
+    "sass": "^1.59.3"
+  }
+}
