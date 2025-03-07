@@ -4,7 +4,7 @@
 
 
 <div>
-  <div style="float:left; width:500px" >
+  <div style="float:left; width:30em" >
 
   - 🔭 I’m currently working with Flutter at night and .NET in the day
 
