@@ -4,7 +4,7 @@
 
 
 <div>
-  <div style="float:left; width:30em" >
+  <div style="float:left; width:400px" >
 
   - 🔭 I’m currently working with Flutter at night and .NET in the day
 
@@ -14,7 +14,7 @@
 
   </div>
   
-  <div style="float:left">
+  <div style="float:right">
     <img height="180em" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edsonaf&langs_count=8&layout=compact&hide_border=true&bg_color=00000000&text_color=3498db&&count_private=false&include_all_commits=true" />
   </div>
 </div>
