@@ -6,9 +6,9 @@
 <div>
   <div style="float:left; width:400px" >
 
-  - 🔭 I’m currently working with Flutter at night and .NET in the day
+  - 🔭 I’m currently getting paid by solving problems using .NET
 
-  - 🌱 I’m currently learning about Green Software
+  - 🌱 I’m currently building a Flutter application in my free time
 
   - ⚡ Fun fact: Edson is the son of Ed
 
