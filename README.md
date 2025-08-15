@@ -8,7 +8,7 @@
 
   - 🔭 I’m currently getting paid by solving problems using .NET
 
-  - 🌱 I’m currently building a Flutter application in my free time
+  - 🌱 I’m currently building <del>a Flutter application</del> in my free time
 
   - ⚡ Fun fact: Edson is the son of Ed
 
