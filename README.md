@@ -5,7 +5,7 @@
 <div>
   <div style="float:left; width:400px" >
   
-  - 💻 Currently getting paid solving problems using .NET
+  - 💻 Currently building and maintaining .NET Applications 
     
   - 🌱 Exploring AI, Green Tech and other technologies in my free time
   
